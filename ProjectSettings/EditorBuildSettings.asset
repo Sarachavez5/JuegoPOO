@@ -137,4 +137,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Demos/MMSceneLoading/MMSceneLoadingDemoSceneB.unity
     guid: 352d34cac2435634fb99618d19a3929c
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 6dcde127097646c43a271ca8e3782769
+  - enabled: 1
+    path: Assets/Scenes/Nivel1.unity
+    guid: d8b8a9c0efff24c40bd0ddda4d79550d
+  - enabled: 1
+    path: Assets/Scenes/Nivel2.unity
+    guid: b50239e698d4b9c4db3b8a5885a79962
+  - enabled: 1
+    path: Assets/Scenes/Nivel3.unity
+    guid: e948821d15d2612419e2656ab299c5c2
+  - enabled: 1
+    path: Assets/Scenes/perdio.unity
+    guid: a3b6ae171296a2247a3e85e79b39581b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/gano.unity
+    guid: 2024851f1f13162469edd6848ff2bcd2
+  - enabled: 1
+    path: 
+    guid: 01cb3be97c7962d4583cf2e31b70cfbf
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones.unity
+    guid: bd48350356895a443837cd08dd015b59
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: f3d18eb733f3b104c9a11317b2955bef
   m_configObjects: {}
